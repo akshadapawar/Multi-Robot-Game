@@ -1,0 +1,4 @@
+gridsize 10 10
+robotPosition  3,4,5 2,3,4 5,6,1 0,5,4 1,4,2 
+Wallarray  4,5 3,2
+Coinarray 6,2,2 1,2,3 2,6,1

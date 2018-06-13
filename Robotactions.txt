@@ -1,0 +1,11 @@
+Moveright
+MoveDown
+Moveleft
+MoveDown
+MoveUp
+Pick
+MoveDown
+Drop
+MoveDown
+MoveDown
+

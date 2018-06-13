@@ -1,0 +1,62 @@
+#container {
+    position: relative;
+    top: 30px;
+    outline:2px solid #000;
+    font-size: 0;
+    margin:auto;
+    height:480px;
+    width:480px;
+    padding: 0;
+    border: none;
+
+}
+
+.grid1 {
+    margin:0;
+    padding:0;
+    border:none;
+    outline:1px solid #000;
+    /*background-image:url('th.jpeg');*/
+    width: 254px;
+    height: 300px;
+    display:inline-block;
+}
+
+.grid2 {
+    margin:0;
+    padding:0;
+    border:none;
+    outline:1px solid #000;
+   /* background-image:url('96robot.png');*/
+    background-image:url('index.jpeg');
+    background-size: 100% 100%;
+    width: 171px;
+    height: 294px;
+    display:inline-block;
+}
+.coin {
+    margin:0;
+    padding:0;
+    border:none;
+    outline:1px solid #000;
+   /* background-image:url('96robot.png');*/
+    background-image:url('image.jpeg');
+    background-size: 100% 100%;
+    width: 171px;
+    height: 294px;
+    display:inline-block;
+}
+.wall {
+    margin:0;
+    padding:0;
+    border:none;
+    outline:1px solid #000;
+    /* background-image:url('96robot.png');*/
+    background-image:url('images.jpeg');
+    background-size: 100% 100%;
+    width: 171px;
+    height: 294px;
+    display:inline-block;
+}
+
+
